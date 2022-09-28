@@ -1,2 +1,2 @@
 # Fraunhofer-ICNAP-Hackathon
-Time series transformer
+## Time series classification with Transformers
