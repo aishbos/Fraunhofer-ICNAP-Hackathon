@@ -1,2 +1,2 @@
-# Fraunhofer-IPT-Hackathon
+# Fraunhofer-ICNAP-Hackathon
 Time series transformer
